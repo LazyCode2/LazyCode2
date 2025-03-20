@@ -7,6 +7,8 @@
 
 - 📝 I regularly write articles on [https://dev.to/lazy_code](https://dev.to/lazy_code)
 
+-⚡ find my art on [https://www.pixilart.com/lazy9artist](Arts)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
