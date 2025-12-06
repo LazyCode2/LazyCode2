@@ -1,45 +1,28 @@
-<h1 align="center">Hi 👋, I'm Nirob</h1>
-<h3 align="center">A lazy developer and pixel artist</h3>
+# Hi 👋, I'm Nirob
 
-<p align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2J6YzYwNjQwaWpjbWxjMHZ6NHpnd2R4MzB1OW9vcGZnYXk5cmZyaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Uz4cDaGXPxeuY/giphy.gif" width="510" alt="ghibli-spirit">
-</p>
+### A passionate developer
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=lazycode2&label=Profile%20views&color=0e75b6&style=flat" alt="lazycode2" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LazyCode2&label=Profile views&color=0e75b6&style=flat" alt="LazyCode2" /> </p>
 
-- 🌱 I'm currently learning **web dev**  
-- ✨ Building cool web experiences with **Svelte**  
-- 📝 I regularly write articles on [https://dev.to/lazy_code](https://dev.to/lazy_code)  
-- 🎨 Find my pixel art on [https://www.pixilart.com/lazy9artist](Arts)  
+- 🔭 I'm currently working on **DoyelConnect - A productive social media.**
+
+- 👯 I'm looking to collaborate on **open source project**
+
+- 📫 How to reach me **21darkwarrior@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://lazynirob.netlify.app/](https://lazynirob.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3>
-
-<p align="left">📫 Discord: <strong>the_lazy_fool</strong></p>
+<p align="left">
+<a href="https://github.com/LazyCode2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LazyCode2" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/svelte" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" width="40" height="40"/> </a></p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LazyCode2&show_icons=true&locale=en&layout=compact" alt="LazyCode2" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LazyCode2&show_icons=true&locale=en" alt="LazyCode2" /></p>
 
-<p align="center">
-  🌸✨ Stay lazy, stay focused ✨🌸
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LazyCode2&" alt="LazyCode2" /></p>
+
