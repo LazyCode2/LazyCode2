@@ -2,7 +2,6 @@
 
 ### A passionate developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LazyCode2&label=Profile views&color=0e75b6&style=flat" alt="LazyCode2" /> </p>
 
 - 🔭 I'm currently working on **DoyelConnect - A productive social media.**
 
