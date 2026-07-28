@@ -1,8 +1,6 @@
 # Hi 👋, I'm Nirob
 
-### A noob developer
-
-📫 How to reach me **21darkwarrior@gmail.com**
+MUHAHA <<33
 
 ### What I use
 
@@ -33,5 +31,3 @@
     <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
   </a>  
 </p>
-
-![cherry blossom](https://media1.tenor.com/m/31vc7LeW8mUAAAAC/cherblossomsom-blossom.gif)
